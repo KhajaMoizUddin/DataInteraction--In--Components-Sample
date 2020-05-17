@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PassingData"
+    }
+  },
+  "defaultProject": "PassingData",
+  "cli": {
+    "analytics": false
+  }
 }
